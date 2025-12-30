@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Professional Summary
-I am a Data Scientist currently at **Caterpillar**, where I focus on predictive maintenance using deep learning and survival analysis. I specialize in bridging the gap between research and production, having designed custom batch inference architectures and automated feature engineering pipelines.
+I am a Data Scientist currently at **Caterpillar**, where I focus on predictive maintenance using deep learning and survival analysis. I specialize in bridging the gap between research and production, having designed custom scalable batch inference architectures and automated feature engineering pipelines.
 
 - 🎓 **Master of Science in Data Science** from The University of Chicago.
 - 🛠️ **Current Focus:** Multi-task deep learning for component-level failure prediction.
